@@ -1,16 +1,19 @@
 # Markdown v2
 
 The goal of this project is to extend Markdown while remaining within the terms
-of the original [Licence][0].
+of the original [Licence][0]. This is without any legal advice.
 
-Or to be very specific, the third condition:
+Special notice is made to the **third** condition:
 
 > Neither the name “Markdown” nor the names of its contributors may be used
 > to endorse or promote products derived from this software without specific
 > prior written permission.
 
-This project is welcome to be "claimed" by the original author if they have the
-time and interest. Otherwise it can just act as a place for agruments about
+This project is a distribution of the original source with some unreleased work
+attached to it. The project will make frequent mention of the name "Markdown" in
+order to convey topic, but it will never be released without written permission.
+This project is welcome to be "claimed back" by the original author if they have
+the time or interest. Otherwise it will act as a place for agruments about
 Markdown; all of which are welcome.
 
 # The rational standard
